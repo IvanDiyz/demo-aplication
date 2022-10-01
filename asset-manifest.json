@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/demo-aplication/static/css/main.72727130.css",
-    "main.js": "/demo-aplication/static/js/main.758a0c38.js",
-    "static/css/793.6105923f.chunk.css": "/demo-aplication/static/css/793.6105923f.chunk.css",
-    "static/js/793.8caa26ce.chunk.js": "/demo-aplication/static/js/793.8caa26ce.chunk.js",
+    "main.js": "/demo-aplication/static/js/main.ea5e0260.js",
+    "static/css/793.3db74905.chunk.css": "/demo-aplication/static/css/793.3db74905.chunk.css",
+    "static/js/793.715d6fe6.chunk.js": "/demo-aplication/static/js/793.715d6fe6.chunk.js",
     "static/css/672.5925ed7d.chunk.css": "/demo-aplication/static/css/672.5925ed7d.chunk.css",
     "static/js/672.c9745776.chunk.js": "/demo-aplication/static/js/672.c9745776.chunk.js",
     "static/js/787.995969ca.chunk.js": "/demo-aplication/static/js/787.995969ca.chunk.js",
@@ -11,15 +11,15 @@
     "static/media/preloader.gif": "/demo-aplication/static/media/preloader.370cccee416a9a388211.gif",
     "index.html": "/demo-aplication/index.html",
     "main.72727130.css.map": "/demo-aplication/static/css/main.72727130.css.map",
-    "main.758a0c38.js.map": "/demo-aplication/static/js/main.758a0c38.js.map",
-    "793.6105923f.chunk.css.map": "/demo-aplication/static/css/793.6105923f.chunk.css.map",
-    "793.8caa26ce.chunk.js.map": "/demo-aplication/static/js/793.8caa26ce.chunk.js.map",
+    "main.ea5e0260.js.map": "/demo-aplication/static/js/main.ea5e0260.js.map",
+    "793.3db74905.chunk.css.map": "/demo-aplication/static/css/793.3db74905.chunk.css.map",
+    "793.715d6fe6.chunk.js.map": "/demo-aplication/static/js/793.715d6fe6.chunk.js.map",
     "672.5925ed7d.chunk.css.map": "/demo-aplication/static/css/672.5925ed7d.chunk.css.map",
     "672.c9745776.chunk.js.map": "/demo-aplication/static/js/672.c9745776.chunk.js.map",
     "787.995969ca.chunk.js.map": "/demo-aplication/static/js/787.995969ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72727130.css",
-    "static/js/main.758a0c38.js"
+    "static/js/main.ea5e0260.js"
   ]
 }
